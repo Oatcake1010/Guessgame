@@ -1,0 +1,16 @@
+C:\Users\ELD\source\repos\Guesswordgame\Guesswordgame\bin\Debug\net8.0-windows\Guesswordgame.exe
+C:\Users\ELD\source\repos\Guesswordgame\Guesswordgame\bin\Debug\net8.0-windows\Guesswordgame.deps.json
+C:\Users\ELD\source\repos\Guesswordgame\Guesswordgame\bin\Debug\net8.0-windows\Guesswordgame.runtimeconfig.json
+C:\Users\ELD\source\repos\Guesswordgame\Guesswordgame\bin\Debug\net8.0-windows\Guesswordgame.dll
+C:\Users\ELD\source\repos\Guesswordgame\Guesswordgame\bin\Debug\net8.0-windows\Guesswordgame.pdb
+C:\Users\ELD\source\repos\Guesswordgame\Guesswordgame\obj\Debug\net8.0-windows\Guesswordgame.Form1.resources
+C:\Users\ELD\source\repos\Guesswordgame\Guesswordgame\obj\Debug\net8.0-windows\Guesswordgame.csproj.GenerateResource.cache
+C:\Users\ELD\source\repos\Guesswordgame\Guesswordgame\obj\Debug\net8.0-windows\Guesswordgame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ELD\source\repos\Guesswordgame\Guesswordgame\obj\Debug\net8.0-windows\Guesswordgame.AssemblyInfoInputs.cache
+C:\Users\ELD\source\repos\Guesswordgame\Guesswordgame\obj\Debug\net8.0-windows\Guesswordgame.AssemblyInfo.cs
+C:\Users\ELD\source\repos\Guesswordgame\Guesswordgame\obj\Debug\net8.0-windows\Guesswordgame.csproj.CoreCompileInputs.cache
+C:\Users\ELD\source\repos\Guesswordgame\Guesswordgame\obj\Debug\net8.0-windows\Guesswordgame.dll
+C:\Users\ELD\source\repos\Guesswordgame\Guesswordgame\obj\Debug\net8.0-windows\refint\Guesswordgame.dll
+C:\Users\ELD\source\repos\Guesswordgame\Guesswordgame\obj\Debug\net8.0-windows\Guesswordgame.pdb
+C:\Users\ELD\source\repos\Guesswordgame\Guesswordgame\obj\Debug\net8.0-windows\Guesswordgame.genruntimeconfig.cache
+C:\Users\ELD\source\repos\Guesswordgame\Guesswordgame\obj\Debug\net8.0-windows\ref\Guesswordgame.dll
